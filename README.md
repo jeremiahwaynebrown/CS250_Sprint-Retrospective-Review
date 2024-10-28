@@ -1,8 +1,10 @@
 # CS250_Sprint-Retrospective-Review
 - How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+
 In order to interpret user needs and implement them into a program, I need to understand what the user wants from the program and translate that into specific features and functionality that the program should offer. User stories help with this by helping develop an undersatanding of the user perspective, aligning development with real-world goals and setting clear acceptance criteria. USer stories are short descriptionmss of a feature tolf from the user's point of view, establishing the user perspective. Because they describe specific outcomes for the user, the establish and verbalize real-world goals for development. Lastly, each user story usually includes acceptaance criteria, which are conditions that the feature needs to be considered "done."
 
 - How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+
 To approach developing programs, there needs toi be a clear understanding of the problem you are trying to solve, the user needs, and the technical requirements. The Agile process that I hope to incorporate into my future development work is breaking down work into sprints, develop and test frequently, and collaborate and seek feedback. By working in sprints, I can seperate a massive project into manageable tasks, allowing me to build, test, and release portions of the program efficiently. By testing frequently through continuous integration and development, I can ensure my output work is high quality and let me catch bugs sooner. Lastly, as Agile emphasizes on cross-functional teamwork and constant communication with stakeholders, I can align with user needs and refine program features as I go.
 
 - What does it mean to be a good team member in software development
